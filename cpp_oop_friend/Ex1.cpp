@@ -24,7 +24,7 @@ int Area(Rect b)  // With "Area" being a friend fcn, it can access the private v
 
 //////////////////////////////////////
 
-
+// Test comment
 int main()
 {
     Rect ob(2,3);
